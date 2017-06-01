@@ -5,6 +5,5 @@ Envoi sur le cloud
 Juin 2017*/
 
 document.getElementById('#bouton').onclick = function(){
-	document.createElement('p');
-	p.
+	document.getElementsByTagName('img').style.display = 'none';
 };
