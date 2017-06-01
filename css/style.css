@@ -1,5 +1,5 @@
 h1{
-	background-color: green;
+	background-color: lime;
 	color:white;
 	font-size:2em;
 	padding:1.5em;
@@ -8,4 +8,5 @@ h1{
 button{
 	padding:1em;
 	background-color: pink;
+	font-family: calibri;
 }
