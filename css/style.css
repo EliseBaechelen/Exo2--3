@@ -1,0 +1,12 @@
+h1{
+	background-color: fuchsia;
+	color:white;
+	font-size:2em;
+	padding:1.5em;
+}
+
+button{
+	padding:1em;
+	background-color: pink;
+	font-family: calibri;
+}
